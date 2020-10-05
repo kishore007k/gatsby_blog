@@ -1,12 +1,12 @@
-import React from "react";
-import {Container} from "../components/Container";
+import React from "react"
+import { Container, FeatureImage } from "../components"
 
-const  Home = () => {
+const Home = () => {
   return (
     <Container>
-      
+      <FeatureImage />
     </Container>
   )
 }
 
-export default Home;
+export default Home
