@@ -3,3 +3,7 @@ export * from "./NavElements";
 export * from "./FooterElements";
 export * from "./ImageElement";
 export * from "./ContentElements";
+export * from "./TypographyElements";
+export * from "./CardElements";
+export * from "./ButtonElement";
+export * from "./PaginationElements";
